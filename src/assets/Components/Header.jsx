@@ -1,6 +1,6 @@
 
 import logoImg from "../myteam 2.svg"
-import { style } from "../style.jsx";
+import { style } from "../Style.jsx";
 
 
 export default function Header() {
